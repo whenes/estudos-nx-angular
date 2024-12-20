@@ -1,4 +1,7 @@
 # CatFactsApp
+
+Foi utilizado a API CatFacts para consumir os fatos sobre gatos e a API MyMemory para a tradução.
+
 ![image](https://github.com/user-attachments/assets/f7cc1d75-11de-47e2-be22-02bd5195fba3)
 
 # CatFactsWorkspace
