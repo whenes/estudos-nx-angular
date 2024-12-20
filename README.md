@@ -1,3 +1,6 @@
+# CatFactsApp
+![image](https://github.com/user-attachments/assets/f7cc1d75-11de-47e2-be22-02bd5195fba3)
+
 # CatFactsWorkspace
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
